@@ -1,0 +1,49 @@
+# 7/19/25
+# Two modes to execute python code:
+   Script mode --> In real time --> using IDE
+   Interactive mode/ command line mode --> Python Interpreter.
+
+#Key words
+   predefined reserved words that have special meaning to python Interpreter
+   how many key words are there? 35 key words in python.
+
+#  https://docs.python.org/3 2.3.1 section --> key words --> ex: False, None, True, and ,as, assert, async
+# import is a module and we called keyword from there
+
+# Variables
+   to store data
+
+# DataTypes
+   to store different types of data we have different datatypes.
+   All the data will be stored in memory.
+
+# Any sort of Variables we create, we have rules
+
+# Identifier rules
+   --> can contain
+   Letters(A-Z or a-z)
+   Digits (0-9)
+   Underscore(_)
+  --> Must Start with
+   A letter
+   Underscore
+   Cannot start with digit
+   Cannot be Python Keyword(import, class)
+   Identifiers are case sensitive(Name, name, NAME)
+ --> We can use type() to know what datatypes
+ --> We can use id() to know  what is the memory address of Variables/Data(Object)
+
+# Define some complex data
+ # list is mutable data type
+ # int, float are immutable data
+
+# output
+  # python is awesome --> string concatenation
+   # x+y=30 --> addition operator
+
+   22 July 2025
+   --> concatenation --> Joining the strings using + operator
+   --> Interpolation - Replacing palceholders with Actual Values
+       -> Supports from Pyhton 3 onwards
+    -> We use {} with f-strings (string formatted literals)
+   
